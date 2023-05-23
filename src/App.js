@@ -4,11 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      
-        <p>
-       Esta es la  rama main
-        </p>
-        
+        <p style={{ color: "blue" }}>este texto es azul</p>
+        <p style={{ color: "blue" }}>Esta es la  rama main</p>
       </header>
     </div>
   );
